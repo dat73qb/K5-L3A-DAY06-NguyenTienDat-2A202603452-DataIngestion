@@ -45,3 +45,36 @@ Dùng cùng dữ liệu, model và câu hỏi cho cả ba cấu hình. Tách **1
 | Cách nộp bài | [SUBMISSION.md](SUBMISSION.md) |
 
 [data/format-example.json](data/format-example.json) chỉ minh họa định dạng, không phải corpus đủ điều kiện. Phần xử lý và benchmark do bạn tự hiện thực; không bắt buộc xây chatbot.
+
+---
+
+# Bài nộp (đã hiện thực) — cách setup & chạy
+
+Corpus: **Prealgebra 2e** (OpenStax, CC BY-NC-SA 4.0), chương 1–2 (163 trang). Báo cáo: [report/individual/2A202603452_NguyenTienDat.md](report/individual/2A202603452_NguyenTienDat.md).
+
+```powershell
+# 1. Tạo venv Python 3.12 và cài thư viện
+cd starter
+uv venv --python 3.12 .venv
+.venv\Scripts\Activate.ps1
+uv pip install -r requirements.txt
+
+# 2. Tạo .env và khởi động PostgreSQL + pgvector
+Copy-Item .env.example .env
+docker compose -p day6_student_starter up -d --wait
+python scripts/check_setup.py        # kỳ vọng "Setup OK"
+
+# 3. Chạy pipeline + benchmark (3 cấu hình A/B/C)
+python -m src.run
+
+# 4. Kiểm chứng evidence và tạo manifest/log
+python scripts/verify_benchmark.py
+python scripts/make_manifest.py
+```
+
+Thành phần chính:
+- `starter/src/` — pipeline (ingestion → chunking → embeddings → store → evaluation → run)
+- `starter/data/` — `prealgebra-2e.pdf`, `manifest.json`, `pages.json`
+- `starter/benchmark/questions.json` — 20 câu hỏi (15 dev / 5 test, 3 câu filter)
+- `starter/results/` — `summary.json`, `trace_A/B/C.json`, `manual_scores.json`, `manual_worksheet.json`, `processing_log.md`
+- `artifacts/experiment_log.csv`, `STUDENT.md`, `report/individual/`

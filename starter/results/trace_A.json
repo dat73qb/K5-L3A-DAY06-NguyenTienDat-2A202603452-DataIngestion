@@ -1,0 +1,1048 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Số nguyên (whole numbers) được định nghĩa như thế nào?",
+    "gold_source_id": "prealgebra-2e",
+    "gold_page": 8,
+    "filter": null,
+    "hit1": true,
+    "hit3": true,
+    "top_pages": [
+      8,
+      13,
+      7
+    ],
+    "top_chapters": [
+      "Whole Numbers",
+      "Whole Numbers",
+      "Whole Numbers"
+    ],
+    "hits": [
+      {
+        "chunk_id": "A|prealgebra-2e|p8|1",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 8,
+        "chapter": "Whole Numbers",
+        "section": "1.1 Introduction to Whole Numbers",
+        "text": "e of the point. The discovery of the number zero was a big step in the history of mathematics. Including zero with the counting numbers gives a new set of numbers called the whole numbers. Whole Numbers The whole numbers are the counting numbers and zero. We stopped at when listing the first few counting numbers and whole numbers. We could have written more numbers if they were needed to make the patterns clear. EXAMPLE 1.1 Which of the following are a counting numbers? b whole numbers? Solution",
+        "score": 0.823939
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p13|3",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 13,
+        "chapter": "Whole Numbers",
+        "section": "1.1 Introduction to Whole Numbers",
+        "text": "onds. Name that number. 1.1 • Introduction to Whole Numbers 13",
+        "score": 0.823819
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p7|2",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 7,
+        "chapter": "Whole Numbers",
+        "section": "1.1 Introduction to Whole Numbers",
+        "text": "s and whole numbers Model whole numbers Identify the place value of a digit Use place value to name whole numbers Use place value to write whole numbers Round whole numbers Identify Counting Numbers and Whole Numbers Learning algebra is similar to learning a language. You start with a basic vocabulary and then add to it as you go along. You need to practice often until the vocabulary becomes easy to you. The more you use the vocabulary, the more familiar it becomes. Algebra uses numbers and symb",
+        "score": 0.809609
+      }
+    ]
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Trong phép cộng, số 0 được gọi là gì?",
+    "gold_source_id": "prealgebra-2e",
+    "gold_page": 26,
+    "filter": null,
+    "hit1": true,
+    "hit3": true,
+    "top_pages": [
+      26,
+      27,
+      53
+    ],
+    "top_chapters": [
+      "Whole Numbers",
+      "Whole Numbers",
+      "Whole Numbers"
+    ],
+    "hits": [
+      {
+        "chunk_id": "A|prealgebra-2e|p26|2",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 26,
+        "chapter": "Whole Numbers",
+        "section": "1.2 Add Whole Numbers",
+        "text": "11 12 13 14 15 16 17 18 Table 1.1 Did you notice what happens when you add zero to a number? The sum of any number and zero is the number itself. We call this the Identity Property of Addition. Zero is called the additive identity. Identity Property of Addition The sum of any number and is the number. EXAMPLE 1.15 Find each sum: a b 26 1 • Whole Numbers Access for free at openstax.org",
+        "score": 0.79544
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p27|0",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 27,
+        "chapter": "Whole Numbers",
+        "section": "1.2 Add Whole Numbers",
+        "text": "Solution a The first addend is zero. The sum of any number and zero is the number. b The second addend is zero. The sum of any number and zero is the number. TRY IT 1.29 Find each sum: a b TRY IT 1.30 Find each sum: a b Look at the pairs of sums. Notice that when the order of the addends is reversed, the sum does not change. This property is called the Commutative Property of Addition, which states that changing the order of the addends does not change their sum. Commutative Property of Addition",
+        "score": 0.792326
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p53|2",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 53,
+        "chapter": "Whole Numbers",
+        "section": "1.4 Multiply Whole Numbers",
+        "text": "when you multiply a number by zero? You can see that the product of any number and zero is zero. This is called the Multiplication Property of Zero. Multiplication Property of Zero The product of any number and is EXAMPLE 1.41 Multiply: a b 1.4 • Multiply Whole Numbers 53",
+        "score": 0.789986
+      }
+    ]
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Nếu đổi thứ tự của các số hạng trong một phép cộng thì tổng có thay đổi không?",
+    "gold_source_id": "prealgebra-2e",
+    "gold_page": 27,
+    "filter": null,
+    "hit1": false,
+    "hit3": false,
+    "top_pages": [
+      55,
+      27,
+      45
+    ],
+    "top_chapters": [
+      "Whole Numbers",
+      "Whole Numbers",
+      "Whole Numbers"
+    ],
+    "hits": [
+      {
+        "chunk_id": "A|prealgebra-2e|p55|0",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 55,
+        "chapter": "Whole Numbers",
+        "section": "1.4 Multiply Whole Numbers",
+        "text": "does not change the sum. We saw that is the same as Is this also true for multiplication? Let’s look at a few pairs of factors. When the order of the factors is reversed, the product does not change. This is called the Commutative Property of Multiplication. Commutative Property of Multiplication Changing the order of the factors does not change their product. EXAMPLE 1.43 Multiply: a b Solution a Multiply. b Multiply. Changing the order of the factors does not change the product. TRY IT 1.85 Mu",
+        "score": 0.821028
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p27|1",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 27,
+        "chapter": "Whole Numbers",
+        "section": "1.2 Add Whole Numbers",
+        "text": "change their sum. Commutative Property of Addition Changing the order of the addends and does not change their sum. EXAMPLE 1.16 Add: a b Solution a Add. b Add. 1.2 • Add Whole Numbers 27",
+        "score": 0.816859
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p45|2",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 45,
+        "chapter": "Whole Numbers",
+        "section": "1.3 Subtract Whole Numbers",
+        "text": "e in the difference. 1.3 • Subtract Whole Numbers 45",
+        "score": 0.809389
+      }
+    ]
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Chu vi (perimeter) của một hình hình học là gì?",
+    "gold_source_id": "prealgebra-2e",
+    "gold_page": 34,
+    "filter": null,
+    "hit1": true,
+    "hit3": true,
+    "top_pages": [
+      34,
+      169,
+      147
+    ],
+    "top_chapters": [
+      "Whole Numbers",
+      "The Language of Algebra",
+      "The Language of Algebra"
+    ],
+    "hits": [
+      {
+        "chunk_id": "A|prealgebra-2e|p34|1",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 34,
+        "chapter": "Whole Numbers",
+        "section": "1.2 Add Whole Numbers",
+        "text": "he total number of miles he rode last week? TRY IT 1.48 Lincoln Middle School has three grades. The number of students in each grade is What is the total number of students? Some application problems involve shapes. For example, a person might need to know the distance around a garden to put up a fence or around a picture to frame it. The perimeter is the distance around a geometric figure. The perimeter of a figure is the sum of the lengths of its sides. EXAMPLE 1.25 Find the perimeter of the p",
+        "score": 0.754777
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p169|2",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 169,
+        "chapter": "The Language of Algebra",
+        "section": "Chapter 2 Exercises",
+        "text": ". Find the LCM (Least Common Multiple) of and 2 • Exercises 169",
+        "score": 0.749859
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p147|3",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 147,
+        "chapter": "The Language of Algebra",
+        "section": "2.4 Find Multiples and Factors",
+        "text": "ber, the divisor and quotient are a pair of factors. 2.4 • Find Multiples and Factors 147",
+        "score": 0.742546
+      }
+    ]
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Khi muốn làm tròn một số đến một hàng cho trước, bạn cần nhìn vào chữ số ở vị trí nào?",
+    "gold_source_id": "prealgebra-2e",
+    "gold_page": 16,
+    "filter": null,
+    "hit1": true,
+    "hit3": true,
+    "top_pages": [
+      16,
+      16,
+      85
+    ],
+    "top_chapters": [
+      "Whole Numbers",
+      "Whole Numbers",
+      "Whole Numbers"
+    ],
+    "hits": [
+      {
+        "chunk_id": "A|prealgebra-2e|p16|0",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 16,
+        "chapter": "Whole Numbers",
+        "section": "1.1 Introduction to Whole Numbers",
+        "text": "... Now that we have looked at this process on the number line, we can introduce a more general procedure. To round a number to a specific place, look at the number to the right of that place. If the number is less than round down. If it is greater than or equal to round up. So, for example, to round to the nearest ten, we look at the digit in the ones place. The digit in the ones place is a Because is greater than or equal to we increase the digit in the tens place by one. So the in the tens pl",
+        "score": 0.820679
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p16|1",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 16,
+        "chapter": "Whole Numbers",
+        "section": "1.1 Introduction to Whole Numbers",
+        "text": "it in the tens place by one. So the in the tens place becomes an Now, replace any digits to the right of the with zeros. So, rounds to Let’s look again at rounding to the nearest Again, we look to the ones place. The digit in the ones place is Because is less than we keep the digit in the tens place the same and replace the digits to the right of it with zero. So rounded to the nearest ten is HOW TO Round a whole number to a specific place value. Step 1. Locate the given place value. All digits",
+        "score": 0.80784
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p85|3",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 85,
+        "chapter": "Whole Numbers",
+        "section": "Chapter 1 Review",
+        "text": "or the ones. Step 2. Use commas in the number to separate the periods. • Use place value to write a whole number. Step 1. Identify the words that indicate periods. (Remember the ones period is never named.) Step 2. Draw three blanks to indicate the number of places needed in each period. Step 3. Name the number in each period and place the digits in the correct place value position. • Round a whole number to a specific place value. Step 1. Locate the given place value. All digits to the left of",
+        "score": 0.803152
+      }
+    ]
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Khi thực hiện phép trừ, ta làm điều gì?",
+    "gold_source_id": "prealgebra-2e",
+    "gold_page": 38,
+    "filter": null,
+    "hit1": false,
+    "hit3": false,
+    "top_pages": [
+      47,
+      49,
+      132
+    ],
+    "top_chapters": [
+      "Whole Numbers",
+      "Whole Numbers",
+      "The Language of Algebra"
+    ],
+    "hits": [
+      {
+        "chunk_id": "A|prealgebra-2e|p47|2",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 47,
+        "chapter": "Whole Numbers",
+        "section": "1.3 Subtract Whole Numbers",
+        "text": "determine what we are asked to find. Then we write a phrase that gives the information to find it. We translate the phrase into math notation and then simplify to get the answer. Finally, we write a sentence to answer the question, using the appropriate units. 1.3 • Subtract Whole Numbers 47",
+        "score": 0.790416
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p49|3",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 49,
+        "chapter": "Whole Numbers",
+        "section": "1.3 Subtract Whole Numbers",
+        "text": "s than 196 . less than 197 . less than 1.3 • Subtract Whole Numbers 49",
+        "score": 0.782511
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p132|1",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 132,
+        "chapter": "The Language of Algebra",
+        "section": "2.3 Solving Equations Using the Subtraction and Addition Properties of Equality",
+        "text": "number was added to the variable on one side of the equation. We used subtraction to “undo” the addition in order to isolate the variable. But suppose we have an equation with a number subtracted from the variable, such as We want to isolate the variable, so to “undo” the subtraction we will add the number to both sides. We use the Addition Property of Equality, which says we can add the same number to both sides of the equation without changing the equality. Notice how it mirrors the Subtractio",
+        "score": 0.77939
+      }
+    ]
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Biến (variable) trong đại số là gì?",
+    "gold_source_id": "prealgebra-2e",
+    "gold_page": 96,
+    "filter": null,
+    "hit1": false,
+    "hit3": false,
+    "top_pages": [
+      96,
+      96,
+      96
+    ],
+    "top_chapters": [
+      "The Language of Algebra",
+      "The Language of Algebra",
+      "The Language of Algebra"
+    ],
+    "hits": [
+      {
+        "chunk_id": "A|prealgebra-2e|p96|1",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 96,
+        "chapter": "The Language of Algebra",
+        "section": "2.1 Use the Language of Algebra",
+        "text": "ee is a constant. The ages change, or vary, so age is a variable. The years between them always stays the same, so the age difference is the constant. In algebra, letters of the alphabet are used to represent variables. Suppose we call Greg’s age Then we could use to represent Alex’s age. See Table 2.1. Greg’s age Alex’s age Table 2.1 Letters are used to represent variables. Letters often used for variables are Variables and Constants A variable is a letter that represents a number or quantity w",
+        "score": 0.795478
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p96|2",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 96,
+        "chapter": "The Language of Algebra",
+        "section": "2.1 Use the Language of Algebra",
+        "text": "is a letter that represents a number or quantity whose value may change. A constant is a number whose value always stays the same. To write algebraically, we need some symbols as well as numbers and variables. There are several types of symbols we will be using. In Whole Numbers, we introduced the symbols for the four basic arithmetic operations: addition, subtraction, multiplication, and division. We will summarize them here, along with words we use for the operations and the result. Operation",
+        "score": 0.790753
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p96|0",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 96,
+        "chapter": "The Language of Algebra",
+        "section": "2.1 Use the Language of Algebra",
+        "text": "If you missed this problem, review Example 1.64. Use Variables and Algebraic Symbols Greg and Alex have the same birthday, but they were born in different years. This year Greg is years old and Alex is so Alex is years older than Greg. When Greg was Alex was When Greg is Alex will be No matter what Greg’s age is, Alex’s age will always be years more, right? In the language of algebra, we say that Greg’s age and Alex’s age are variable and the three is a constant. The ages change, or vary, so age",
+        "score": 0.779787
+      }
+    ]
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Biểu thức (expression) khác phương trình (equation) ở điểm gì?",
+    "gold_source_id": "prealgebra-2e",
+    "gold_page": 102,
+    "filter": null,
+    "hit1": true,
+    "hit3": true,
+    "top_pages": [
+      102,
+      101,
+      102
+    ],
+    "top_chapters": [
+      "The Language of Algebra",
+      "The Language of Algebra",
+      "The Language of Algebra"
+    ],
+    "hits": [
+      {
+        "chunk_id": "A|prealgebra-2e|p102|1",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 102,
+        "chapter": "The Language of Algebra",
+        "section": "2.1 Use the Language of Algebra",
+        "text": "sign gives the verb. Here are some examples of equations: Equation Sentence The sum of three and five is equal to eight. minus one equals fourteen. The product of six and seven is equal to forty-two. is equal to fifty-three. plus nine is equal to two minus three. Expressions and Equations An expression is a number, a variable, or a combination of numbers and variables and operation symbols. An equation is made up of two expressions connected by an equal sign. EXAMPLE 2.4 Determine if each is an",
+        "score": 0.83527
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p101|3",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 101,
+        "chapter": "The Language of Algebra",
+        "section": "2.1 Use the Language of Algebra",
+        "text": "expression is like a phrase. Here are some examples of expressions 2.1 • Use the Language of Algebra 101",
+        "score": 0.83317
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p102|0",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 102,
+        "chapter": "The Language of Algebra",
+        "section": "2.1 Use the Language of Algebra",
+        "text": "and how they relate to word phrases: Expression Words Phrase the sum of three and five minus one the difference of and one the product of six and seven divided by the quotient of and Notice that the phrases do not form a complete sentence because the phrase does not have a verb. An equation is two expressions linked with an equal sign. When you read the words the symbols represent in an equation, you have a complete sentence in English. The equal sign gives the verb. Here are some examples of eq",
+        "score": 0.829768
+      }
+    ]
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Số mũ (exponent) cho biết điều gì?",
+    "gold_source_id": "prealgebra-2e",
+    "gold_page": 103,
+    "filter": null,
+    "hit1": false,
+    "hit3": false,
+    "top_pages": [
+      67,
+      15,
+      45
+    ],
+    "top_chapters": [
+      "Whole Numbers",
+      "Whole Numbers",
+      "Whole Numbers"
+    ],
+    "hits": [
+      {
+        "chunk_id": "A|prealgebra-2e|p67|5",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 67,
+        "chapter": "Whole Numbers",
+        "section": "1.4 Multiply Whole Numbers",
+        "text": "n the multiplication facts? 1.4 • Multiply Whole Numbers 67",
+        "score": 0.796213
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p15|2",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 15,
+        "chapter": "Whole Numbers",
+        "section": "1.1 Introduction to Whole Numbers",
+        "text": "ng a number is called rounding. Numbers are rounded to a specific place value depending on how much accuracy is needed. million was achieved by rounding to the millions place. Had we rounded to the one hundred thousands place, we would have as a result. Had we rounded to the ten thousands place, we would have as a result, and so on. The place value to which we round to depends on how we need to use the number. Using the number line can help you visualize and understand the rounding process. Look",
+        "score": 0.795109
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p45|2",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 45,
+        "chapter": "Whole Numbers",
+        "section": "1.3 Subtract Whole Numbers",
+        "text": "e in the difference. 1.3 • Subtract Whole Numbers 45",
+        "score": 0.791544
+      }
+    ]
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Theo thứ tự thực hiện phép tính, các phép nhân và phép chia được thực hiện theo thứ tự nào?",
+    "gold_source_id": "prealgebra-2e",
+    "gold_page": 105,
+    "filter": null,
+    "hit1": false,
+    "hit3": true,
+    "top_pages": [
+      106,
+      163,
+      105
+    ],
+    "top_chapters": [
+      "The Language of Algebra",
+      "The Language of Algebra",
+      "The Language of Algebra"
+    ],
+    "hits": [
+      {
+        "chunk_id": "A|prealgebra-2e|p106|1",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 106,
+        "chapter": "The Language of Algebra",
+        "section": "2.1 Use the Language of Algebra",
+        "text": "subtraction also have equal priority and we do them in order from left to right. MANIPULATIVE MATHEMATICS Doing the Manipulative Mathematics activity Game of 24 will give you practice using the order of operations. EXAMPLE 2.8 Simplify the expressions: a b Solution a Are there any parentheses? No. Are there any exponents? No. Is there any multiplication or division? Yes. Multiply first. Add. b Are there any parentheses? Yes. 106 2 • The Language of Algebra Access for free at openstax.org",
+        "score": 0.804589
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p163|1",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 163,
+        "chapter": "The Language of Algebra",
+        "section": "Chapter 2 Review",
+        "text": "ressions inside the parentheses or other grouping symbols, working on the innermost parentheses first. • Exponents: Simplify all expressions with exponents. • Multiplication and Division: Perform all multiplication and division in order from left to right. These operations have equal priority. • Addition and Subtraction: Perform all addition and subtraction in order from left to right. These operations have equal priority. 2.2 Evaluate, Simplify, and Translate Expressions • Combine like terms. S",
+        "score": 0.798232
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p105|2",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 105,
+        "chapter": "The Language of Algebra",
+        "section": "2.1 Use the Language of Algebra",
+        "text": "uping symbols, working on the innermost parentheses first. 2. Exponents • Simplify all expressions with exponents. 3. Multiplication and Division • Perform all multiplication and division in order from left to right. These operations have equal priority. 4. Addition and Subtraction • Perform all addition and subtraction in order from left to right. These operations have equal priority. Students often ask, “How will I remember the order?” Here is a way to help you remember: Take the first letter",
+        "score": 0.7969
+      }
+    ]
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Tính giá trị (evaluate) của một biểu thức đại số nghĩa là gì?",
+    "gold_source_id": "prealgebra-2e",
+    "gold_page": 113,
+    "filter": null,
+    "hit1": false,
+    "hit3": true,
+    "top_pages": [
+      114,
+      113,
+      124
+    ],
+    "top_chapters": [
+      "The Language of Algebra",
+      "The Language of Algebra",
+      "The Language of Algebra"
+    ],
+    "hits": [
+      {
+        "chunk_id": "A|prealgebra-2e|p114|1",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 114,
+        "chapter": "The Language of Algebra",
+        "section": "2.2 Evaluate, Simplify, and Translate Expressions",
+        "text": "ies depending on the value used for the variable. TRY IT 2.25 Evaluate: a b TRY IT 2.26 Evaluate: a b EXAMPLE 2.14 Evaluate a b Solution Remember means times so means times a To evaluate the expression when we substitute for and then simplify. 114 2 • The Language of Algebra Access for free at openstax.org",
+        "score": 0.804183
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p113|4",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 113,
+        "chapter": "The Language of Algebra",
+        "section": "2.2 Evaluate, Simplify, and Translate Expressions",
+        "text": "ection, we’ll evaluate expressions—again following the order of operations. To evaluate an algebraic expression means to find the value of the expression when the variable is replaced by a given number. To evaluate an expression, we substitute the given number for the variable in the expression and then simplify the expression using the order of operations. EXAMPLE 2.13 Evaluate when a b 2.2 • Evaluate, Simplify, and Translate Expressions 113",
+        "score": 0.796993
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p124|2",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 124,
+        "chapter": "The Language of Algebra",
+        "section": "2.2 Evaluate, Simplify, and Translate Expressions",
+        "text": "Expression Vocabulary (https://openstaxcollege.org/l/24AlgExpvocab) SECTION 2.2 EXERCISES Practice Makes Perfect Evaluate Algebraic Expressions In the following exercises, evaluate the expression for the given value. 69 . 70 . 71 . 72 . 73 . 74 . 75 . 76 . 77 . 78 . 79 . 80 . 81 . 82 . 83 . 84 . 85 . 86 . 87 . 88 . Identify Terms, Coefficients, and Like Terms In the following exercises, list the terms in the given expression. 89 . 90 . 91 . 92 . 124 2 • The Language of Algebra Access for free a",
+        "score": 0.793064
+      }
+    ]
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Bội (multiple) của một số là gì?",
+    "gold_source_id": "prealgebra-2e",
+    "gold_page": 140,
+    "filter": null,
+    "hit1": true,
+    "hit3": true,
+    "top_pages": [
+      140,
+      143,
+      161
+    ],
+    "top_chapters": [
+      "The Language of Algebra",
+      "The Language of Algebra",
+      "The Language of Algebra"
+    ],
+    "hits": [
+      {
+        "chunk_id": "A|prealgebra-2e|p140|0",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 140,
+        "chapter": "The Language of Algebra",
+        "section": "2.4 Find Multiples and Factors",
+        "text": "Identify Multiples of Numbers Annie is counting the shoes in her closet. The shoes are matched in pairs, so she doesn’t have to count each one. She counts by twos: She has shoes in her closet. The numbers are called multiples of Multiples of can be written as the product of a counting number and The first six multiples of are given below. A multiple of a number is the product of the number and a counting number. So a multiple of would be the product of a counting number and Below are the first s",
+        "score": 0.799216
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p143|2",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 143,
+        "chapter": "The Language of Algebra",
+        "section": "2.4 Find Multiples and Factors",
+        "text": "is a multiple of a b 2.4 • Find Multiples and Factors 143",
+        "score": 0.79415
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p161|1",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 161,
+        "chapter": "The Language of Algebra",
+        "section": "2.5 Prime Factorization and the Least Common Multiple",
+        "text": "ed for the next Chapter? Why or why not? 2.5 • Prime Factorization and the Least Common Multiple 161",
+        "score": 0.78541
+      }
+    ]
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Số nào vừa không phải là số nguyên tố vừa không phải là hợp số?",
+    "gold_source_id": "prealgebra-2e",
+    "gold_page": 148,
+    "filter": null,
+    "hit1": false,
+    "hit3": false,
+    "top_pages": [
+      49,
+      164,
+      161
+    ],
+    "top_chapters": [
+      "Whole Numbers",
+      "The Language of Algebra",
+      "The Language of Algebra"
+    ],
+    "hits": [
+      {
+        "chunk_id": "A|prealgebra-2e|p49|3",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 49,
+        "chapter": "Whole Numbers",
+        "section": "1.3 Subtract Whole Numbers",
+        "text": "s than 196 . less than 197 . less than 1.3 • Subtract Whole Numbers 49",
+        "score": 0.79987
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p164|2",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 164,
+        "chapter": "The Language of Algebra",
+        "section": "Chapter 2 Review",
+        "text": "divisor is not a factor. Step 2. List all the factor pairs. Step 3. Write all the factors in order from smallest to largest. • Determine if a number is prime. Step 1. Test each of the primes, in order, to see if it is a factor of the number. Step 2. Start with 2 and stop when the quotient is smaller than the divisor or when a prime factor is found. Step 3. If the number has a prime factor, then it is a composite number. If it has no prime factors, then the number is prime. 2.5 Prime Factorizati",
+        "score": 0.794407
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p161|1",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 161,
+        "chapter": "The Language of Algebra",
+        "section": "2.5 Prime Factorization and the Least Common Multiple",
+        "text": "ed for the next Chapter? Why or why not? 2.5 • Prime Factorization and the Least Common Multiple 161",
+        "score": 0.791521
+      }
+    ]
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Trong chương Whole Numbers, chu vi của một hình được tính như thế nào?",
+    "gold_source_id": "prealgebra-2e",
+    "gold_page": 34,
+    "filter": {
+      "chapter": "Whole Numbers"
+    },
+    "hit1": false,
+    "hit3": false,
+    "top_pages": [
+      45,
+      87,
+      7
+    ],
+    "top_chapters": [
+      "Whole Numbers",
+      "Whole Numbers",
+      "Whole Numbers"
+    ],
+    "hits": [
+      {
+        "chunk_id": "A|prealgebra-2e|p45|2",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 45,
+        "chapter": "Whole Numbers",
+        "section": "1.3 Subtract Whole Numbers",
+        "text": "e in the difference. 1.3 • Subtract Whole Numbers 45",
+        "score": 0.792266
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p87|3",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 87,
+        "chapter": "Whole Numbers",
+        "section": "Chapter 1 Exercises",
+        "text": "hich of the following are (a) counting numbers (b) whole numbers. 453 . 454 . 455 . 456 . Model Whole Numbers In the following exercises, model each number using blocks and then show its value using place value notation. 457 . 258 458 . 104 Identify the Place Value of a Digit In the following exercises, find the place value of the given digits. a b c d e 459 . a b c d e 460 . 1 • Exercises 87",
+        "score": 0.791698
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p7|2",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 7,
+        "chapter": "Whole Numbers",
+        "section": "1.1 Introduction to Whole Numbers",
+        "text": "s and whole numbers Model whole numbers Identify the place value of a digit Use place value to name whole numbers Use place value to write whole numbers Round whole numbers Identify Counting Numbers and Whole Numbers Learning algebra is similar to learning a language. You start with a basic vocabulary and then add to it as you go along. You need to practice often until the vocabulary becomes easy to you. The more you use the vocabulary, the more familiar it becomes. Algebra uses numbers and symb",
+        "score": 0.791039
+      }
+    ]
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Trong chương The Language of Algebra, biến (variable) được định nghĩa như thế nào?",
+    "gold_source_id": "prealgebra-2e",
+    "gold_page": 96,
+    "filter": {
+      "chapter": "The Language of Algebra"
+    },
+    "hit1": false,
+    "hit3": false,
+    "top_pages": [
+      96,
+      96,
+      95
+    ],
+    "top_chapters": [
+      "The Language of Algebra",
+      "The Language of Algebra",
+      "The Language of Algebra"
+    ],
+    "hits": [
+      {
+        "chunk_id": "A|prealgebra-2e|p96|0",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 96,
+        "chapter": "The Language of Algebra",
+        "section": "2.1 Use the Language of Algebra",
+        "text": "If you missed this problem, review Example 1.64. Use Variables and Algebraic Symbols Greg and Alex have the same birthday, but they were born in different years. This year Greg is years old and Alex is so Alex is years older than Greg. When Greg was Alex was When Greg is Alex will be No matter what Greg’s age is, Alex’s age will always be years more, right? In the language of algebra, we say that Greg’s age and Alex’s age are variable and the three is a constant. The ages change, or vary, so age",
+        "score": 0.815559
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p96|1",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 96,
+        "chapter": "The Language of Algebra",
+        "section": "2.1 Use the Language of Algebra",
+        "text": "ee is a constant. The ages change, or vary, so age is a variable. The years between them always stays the same, so the age difference is the constant. In algebra, letters of the alphabet are used to represent variables. Suppose we call Greg’s age Then we could use to represent Alex’s age. See Table 2.1. Greg’s age Alex’s age Table 2.1 Letters are used to represent variables. Letters often used for variables are Variables and Constants A variable is a letter that represents a number or quantity w",
+        "score": 0.814249
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p95|0",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 95,
+        "chapter": "The Language of Algebra",
+        "section": "2.1 Use the Language of Algebra",
+        "text": "Figure 2.1 Algebra has a language of its own. The picture shows just some of the words you may see and use in your study of Prealgebra. Chapter Outline 2.1 Use the Language of Algebra 2.2 Evaluate, Simplify, and Translate Expressions 2.3 Solving Equations Using the Subtraction and Addition Properties of Equality 2.4 Find Multiples and Factors 2.5 Prime Factorization and the Least Common Multiple Introduction to the Language of Algebra You may not realize it, but you already use algebra every day",
+        "score": 0.807023
+      }
+    ]
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Các số đếm (counting numbers) còn được gọi là gì?",
+    "gold_source_id": "prealgebra-2e",
+    "gold_page": 7,
+    "filter": null,
+    "hit1": false,
+    "hit3": false,
+    "top_pages": [
+      8,
+      8,
+      8
+    ],
+    "top_chapters": [
+      "Whole Numbers",
+      "Whole Numbers",
+      "Whole Numbers"
+    ],
+    "hits": [
+      {
+        "chunk_id": "A|prealgebra-2e|p8|1",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 8,
+        "chapter": "Whole Numbers",
+        "section": "1.1 Introduction to Whole Numbers",
+        "text": "e of the point. The discovery of the number zero was a big step in the history of mathematics. Including zero with the counting numbers gives a new set of numbers called the whole numbers. Whole Numbers The whole numbers are the counting numbers and zero. We stopped at when listing the first few counting numbers and whole numbers. We could have written more numbers if they were needed to make the patterns clear. EXAMPLE 1.1 Which of the following are a counting numbers? b whole numbers? Solution",
+        "score": 0.809799
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p8|0",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 8,
+        "chapter": "Whole Numbers",
+        "section": "1.1 Introduction to Whole Numbers",
+        "text": "Counting Numbers The counting numbers start with and continue. Counting numbers and whole numbers can be visualized on a number line as shown in Figure 1.2. Figure 1.2 The numbers on the number line increase from left to right, and decrease from right to left. The point labeled is called the origin. The points are equally spaced to the right of and labeled with the counting numbers. When a number is paired with a point, it is called the coordinate of the point. The discovery of the number zero w",
+        "score": 0.806108
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p8|2",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 8,
+        "chapter": "Whole Numbers",
+        "section": "1.1 Introduction to Whole Numbers",
+        "text": "are a counting numbers? b whole numbers? Solution a The counting numbers start at so is not a counting number. The numbers are all counting numbers. b Whole numbers are counting numbers and The numbers are whole numbers. The numbers and are neither counting numbers nor whole numbers. We will discuss these numbers later. TRY IT 1.1 Which of the following are a counting numbers b whole numbers? TRY IT 1.2 Which of the following are a counting numbers b whole numbers? Model Whole Numbers Our numbe",
+        "score": 0.805943
+      }
+    ]
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Hợp số (composite number) là gì?",
+    "gold_source_id": "prealgebra-2e",
+    "gold_page": 148,
+    "filter": null,
+    "hit1": true,
+    "hit3": true,
+    "top_pages": [
+      148,
+      152,
+      152
+    ],
+    "top_chapters": [
+      "The Language of Algebra",
+      "The Language of Algebra",
+      "The Language of Algebra"
+    ],
+    "hits": [
+      {
+        "chunk_id": "A|prealgebra-2e|p148|1",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 148,
+        "chapter": "The Language of Algebra",
+        "section": "2.4 Find Multiples and Factors",
+        "text": "numbers, such as have only two factors: and the number. A number with only two factors is called a prime number. A number with more than two factors is called a composite number. The number is neither prime nor composite. It has only one factor, itself. Prime Numbers and Composite Numbers A prime number is a counting number greater than whose only factors are and itself. A composite number is a counting number that is not prime. Figure 2.10 lists the counting numbers from through along with the",
+        "score": 0.824958
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p152|2",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 152,
+        "chapter": "The Language of Algebra",
+        "section": "2.5 Prime Factorization and the Least Common Multiple",
+        "text": "Prime numbers have only two factors, the number and the prime number itself. Composite numbers have more than two factors, and every composite number can be written as a unique product of primes. This is called the prime factorization of a number. When we write the prime factorization of a number, we are rewriting the number as a product of primes. Finding the prime factorization of a composite number will help you later in this course. Prime Factorization The prime factorization of a number is",
+        "score": 0.813782
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p152|1",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 152,
+        "chapter": "The Language of Algebra",
+        "section": "2.5 Prime Factorization and the Least Common Multiple",
+        "text": "ast common multiple (LCM) of two numbers BE PREPARED 2.12 Before you get started, take this readiness quiz. Is divisible by If you missed this problem, review Example 2.44. BE PREPARED 2.13 Is prime or composite? If you missed this problem, review Example 2.47. Write in exponential notation. If you missed this problem, review Example 2.5. Find the Prime Factorization of a Composite Number In the previous section, we found the factors of a number. Prime numbers have only two factors, the number a",
+        "score": 0.807711
+      }
+    ]
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Bội chung nhỏ nhất (LCM) của hai số là gì?",
+    "gold_source_id": "prealgebra-2e",
+    "gold_page": 157,
+    "filter": null,
+    "hit1": true,
+    "hit3": true,
+    "top_pages": [
+      157,
+      158,
+      160
+    ],
+    "top_chapters": [
+      "The Language of Algebra",
+      "The Language of Algebra",
+      "The Language of Algebra"
+    ],
+    "hits": [
+      {
+        "chunk_id": "A|prealgebra-2e|p157|2",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 157,
+        "chapter": "The Language of Algebra",
+        "section": "2.5 Prime Factorization and the Least Common Multiple",
+        "text": "s. We see that and appear in both lists. They are common multiples of and We would find more common multiples if we continued the list of multiples for each. The smallest number that is a multiple of two numbers is called the least common multiple (LCM). So the least LCM of and is HOW TO Find the least common multiple (LCM) of two numbers by listing multiples. Step 1. List the first several multiples of each number. Step 2. Look for multiples common to both lists. If there are no common multiple",
+        "score": 0.845813
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p158|0",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 158,
+        "chapter": "The Language of Algebra",
+        "section": "2.5 Prime Factorization and the Least Common Multiple",
+        "text": "... The smallest number to appear on both lists is so is the least common multiple of and Notice that is on both lists, too. It is a common multiple, but it is not the least common multiple. TRY IT 2.103 Find the least common multiple (LCM) of the given numbers: TRY IT 2.104 Find the least common multiple (LCM) of the given numbers: Prime Factors Method Another way to find the least common multiple of two numbers is to use their prime factors. We’ll use this method to find the LCM of and We star",
+        "score": 0.833643
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p160|1",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 160,
+        "chapter": "The Language of Algebra",
+        "section": "2.5 Prime Factorization and the Least Common Multiple",
+        "text": "nd the prime factorization of each number using any method. 287 . 288 . 289 . 290 . 291 . 292 . 293 . 294 . Find the Least Common Multiple (LCM) of Two Numbers In the following exercises, find the least common multiple (LCM) by listing multiples. 295 . 296 . 297 . 298 . 299 . 300 . 301 . 302 . In the following exercises, find the least common multiple (LCM) by using the prime factors method. 303 . 304 . 305 . 306 . 307 . 308 . In the following exercises, find the least common multiple (LCM) usin",
+        "score": 0.831686
+      }
+    ]
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Bội chung nhỏ nhất (LCM) của 15 và 18 là bao nhiêu?",
+    "gold_source_id": "prealgebra-2e",
+    "gold_page": 159,
+    "filter": null,
+    "hit1": false,
+    "hit3": true,
+    "top_pages": [
+      160,
+      159,
+      169
+    ],
+    "top_chapters": [
+      "The Language of Algebra",
+      "The Language of Algebra",
+      "The Language of Algebra"
+    ],
+    "hits": [
+      {
+        "chunk_id": "A|prealgebra-2e|p160|2",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 160,
+        "chapter": "The Language of Algebra",
+        "section": "2.5 Prime Factorization and the Least Common Multiple",
+        "text": "ercises, find the least common multiple (LCM) using any method. 309 . 310 . 311 . 312 . Everyday Math 313 . Grocery shopping Hot dogs are sold in packages of ten, but hot dog buns come in packs of eight. What is the smallest number of hot dogs and buns that can be purchased if you want to have the same number of hot dogs and buns? (Hint: it is the LCM!) 314 . Grocery shopping Paper plates are sold in packages of and party cups come in packs of What is the smallest number of plates and cups you c",
+        "score": 0.806009
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p159|0",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 159,
+        "chapter": "The Language of Algebra",
+        "section": "2.5 Prime Factorization and the Least Common Multiple",
+        "text": "Bring down the primes in each column. Multiply the factors to get the LCM. The LCM of 15 and 18 is 90. TRY IT 2.105 Find the LCM using the prime factors method. TRY IT 2.106 Find the LCM using the prime factors method. EXAMPLE 2.54 Find the LCM of and using the prime factors method. Solution Write the prime factorization of each number. Write each number as a product of primes, matching primes vertically when possible. Bring down the primes in each column. Multiply the factors to get the LCM. Th",
+        "score": 0.804044
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p169|2",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 169,
+        "chapter": "The Language of Algebra",
+        "section": "Chapter 2 Exercises",
+        "text": ". Find the LCM (Least Common Multiple) of and 2 • Exercises 169",
+        "score": 0.80119
+      }
+    ]
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Trong chương The Language of Algebra, số nguyên tố (prime number) được định nghĩa như thế nào?",
+    "gold_source_id": "prealgebra-2e",
+    "gold_page": 162,
+    "filter": {
+      "chapter": "The Language of Algebra"
+    },
+    "hit1": false,
+    "hit3": false,
+    "top_pages": [
+      148,
+      158,
+      95
+    ],
+    "top_chapters": [
+      "The Language of Algebra",
+      "The Language of Algebra",
+      "The Language of Algebra"
+    ],
+    "hits": [
+      {
+        "chunk_id": "A|prealgebra-2e|p148|3",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 148,
+        "chapter": "The Language of Algebra",
+        "section": "2.4 Find Multiples and Factors",
+        "text": "of the smaller prime numbers in order to see if it is a factor of the number. If none of the prime numbers are factors, then that number is also prime. 148 2 • The Language of Algebra Access for free at openstax.org",
+        "score": 0.816426
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p158|3",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 158,
+        "chapter": "The Language of Algebra",
+        "section": "2.5 Prime Factorization and the Least Common Multiple",
+        "text": "each number as a product of primes, matching primes vertically when possible. 158 2 • The Language of Algebra Access for free at openstax.org",
+        "score": 0.816088
+      },
+      {
+        "chunk_id": "A|prealgebra-2e|p95|0",
+        "document_id": "prealgebra-2e",
+        "source": "prealgebra-2e.pdf",
+        "page": 95,
+        "chapter": "The Language of Algebra",
+        "section": "2.1 Use the Language of Algebra",
+        "text": "Figure 2.1 Algebra has a language of its own. The picture shows just some of the words you may see and use in your study of Prealgebra. Chapter Outline 2.1 Use the Language of Algebra 2.2 Evaluate, Simplify, and Translate Expressions 2.3 Solving Equations Using the Subtraction and Addition Properties of Equality 2.4 Find Multiples and Factors 2.5 Prime Factorization and the Least Common Multiple Introduction to the Language of Algebra You may not realize it, but you already use algebra every day",
+        "score": 0.813325
+      }
+    ]
+  }
+]

@@ -1,5 +1,12 @@
-"""Choose a real embedding provider (API or local) and implement this contract."""
+"""A real embedding provider (local Sentence Transformers, multilingual).
+
+Vectors are L2-normalized so pgvector's cosine distance operator ``<=>``
+returns the equivalent of 1 - cosine_similarity, and the reported score is
+cosine similarity in [0, 1].
+"""
 from typing import Protocol
+
+from sentence_transformers import SentenceTransformer
 
 
 class Embedder(Protocol):
@@ -16,14 +23,38 @@ class Embedder(Protocol):
 
 
 class MyEmbedder:
-    """TODO: implement a provider adapter; do not silently fall back to mock vectors."""
+    """Adapter over SentenceTransformer.
 
-    def __init__(self, model_name: str) -> None:
+    Defaults to the E5 query/passage prefix convention, which is required for
+    strong cross-lingual retrieval with ``intfloat/multilingual-e5-base``.
+    Pass empty prefixes for non-E5 models (e.g. MiniLM).
+    """
+
+    def __init__(self, model_name: str,
+                 query_prefix: str = "query: ",
+                 passage_prefix: str = "passage: ") -> None:
         self.model_name = model_name
-        raise NotImplementedError("TODO: initialize real embedder and dimensions")
+        self.query_prefix = query_prefix
+        self.passage_prefix = passage_prefix
+        self._model = SentenceTransformer(model_name)
+        self.dimensions = int(self._model.get_embedding_dimension())
 
     def embed_documents(self, texts: list[str]) -> list[list[float]]:
-        raise NotImplementedError("TODO: embed_documents")
+        if not texts:
+            return []
+        prefixed = [self.passage_prefix + t for t in texts]
+        vectors = self._model.encode(
+            prefixed,
+            normalize_embeddings=True,
+            show_progress_bar=False,
+            batch_size=64,
+        )
+        return [list(map(float, v)) for v in vectors]
 
     def embed_query(self, question: str) -> list[float]:
-        raise NotImplementedError("TODO: embed_query")
+        vector = self._model.encode(
+            [self.query_prefix + question],
+            normalize_embeddings=True,
+            show_progress_bar=False,
+        )[0]
+        return list(map(float, vector))

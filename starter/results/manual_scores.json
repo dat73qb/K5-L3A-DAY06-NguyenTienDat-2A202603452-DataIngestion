@@ -1,0 +1,51 @@
+{
+  "rubric": {
+    "coherence": "2 = starts AND ends at a sentence/heading boundary (self-contained idea); 1 = one boundary broken; 0 = both boundaries broken or a subjectless fragment. 10 fixed positions = opening span of printed pages 7-16 (chosen before reading scores).",
+    "grounding": "2 = top-3 has enough evidence to answer and trace the source; 1 = has related evidence but missing the specific answer/condition; 0 = no relevant evidence. 5 test questions, judged manually.",
+    "metadata": "Per test-question top-3 record: verify source, page, chapter, section against the deterministic section map and the source text."
+  },
+  "coherence": {
+    "positions": [7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
+    "note": "Start-boundary breaks at pages 9, 10, 12, 15 are inherited page-break/table continuations (identical for all strategies). The systematic difference is the END boundary: A (fixed 500-char) cuts mid-word on every page; B/C end on sentence boundaries.",
+    "scores": {
+      "A": [1, 1, 0, 0, 1, 0, 1, 1, 0, 1],
+      "B": [2, 2, 1, 1, 2, 1, 2, 2, 1, 2],
+      "C": [2, 2, 1, 1, 2, 1, 2, 2, 1, 2]
+    },
+    "averages": { "A": 0.6, "B": 1.6, "C": 1.6 },
+    "reasoning_per_position": {
+      "7": "caption + chapter outline; A cut mid-word 'ma[th]'",
+      "8": "counting numbers heading; A cut mid-word 'w'",
+      "9": "starts mid-sentence (continuation of p8); A also cut mid-word",
+      "10": "starts with a table-header fragment (subjectless); A also cut mid-word",
+      "11": "place-value heading; A cut mid-word 'trill[ions]'",
+      "12": "starts mid-sentence with ellipsis; A also cut mid-word",
+      "13": "worked-example solution; A cut mid-word 'ninety-e[ight]'",
+      "14": "heading + complete sentence; A cut mid-word 'follow[ing]'",
+      "15": "starts mid-sentence (continuation of p14); A also cut mid-word",
+      "16": "rounding procedure; A cut mid-word 'pl[ace]'"
+    }
+  },
+  "grounding": {
+    "scores": {
+      "A": { "q16": 1, "q17": 2, "q18": 2, "q19": 2, "q20": 2 },
+      "B": { "q16": 2, "q17": 2, "q18": 2, "q19": 1, "q20": 2 },
+      "C": { "q16": 2, "q17": 2, "q18": 2, "q19": 1, "q20": 2 }
+    },
+    "averages": { "A": 1.8, "B": 1.8, "C": 1.8 },
+    "reasoning": {
+      "q16": "A retrieves the whole-numbers definition (p8) but misses 'natural numbers' (p7); B/C retrieve p7",
+      "q17": "all strategies retrieve the composite-number definition (p148)",
+      "q18": "all strategies retrieve the LCM definition (p157)",
+      "q19": "A retrieves the specific 'LCM of 15 and 18 is 90' (p159); B/C retrieve only the LCM definition/exercises, missing the specific answer",
+      "q20": "A retrieves the prime-number definition (p148); B/C retrieve it (p162) plus related pages"
+    }
+  },
+  "metadata": {
+    "records_checked_per_strategy": 15,
+    "correct_per_strategy": { "A": 15, "B": 15, "C": 15 },
+    "total_correct": 45,
+    "filter_compliance_C": { "checked": 3, "compliant": 3 },
+    "note": "source/page/chapter/section are derived deterministically from the printed page number via the section map, so they are correct by construction; spot-checked against the source text (e.g. page 148 -> section 2.4, page 157 -> section 2.5, page 162 -> Chapter 2 Review)."
+  }
+}

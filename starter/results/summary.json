@@ -1,0 +1,95 @@
+{
+  "model": "intfloat/multilingual-e5-base",
+  "dimensions": 768,
+  "A": {
+    "config": {
+      "kind": "fixed",
+      "size": 500,
+      "overlap": 50,
+      "filter": false
+    },
+    "chunk_stats": {
+      "count": 519,
+      "total_chars": 220910,
+      "min": 48,
+      "max": 500,
+      "mean": 425.6,
+      "p50": 500,
+      "p90": 500
+    },
+    "stored": 519,
+    "ingest_seconds": 174.1,
+    "summary": {
+      "dev": {
+        "n": 15,
+        "hit1": 6,
+        "hit3": 8
+      },
+      "test": {
+        "n": 5,
+        "hit1": 2,
+        "hit3": 3
+      }
+    }
+  },
+  "B": {
+    "config": {
+      "kind": "paragraph",
+      "max_size": 500,
+      "filter": false
+    },
+    "chunk_stats": {
+      "count": 550,
+      "total_chars": 202848,
+      "min": 1,
+      "max": 500,
+      "mean": 368.8,
+      "p50": 425,
+      "p90": 491
+    },
+    "stored": 550,
+    "ingest_seconds": 136.34,
+    "summary": {
+      "dev": {
+        "n": 15,
+        "hit1": 4,
+        "hit3": 9
+      },
+      "test": {
+        "n": 5,
+        "hit1": 2,
+        "hit3": 4
+      }
+    }
+  },
+  "C": {
+    "config": {
+      "kind": "paragraph",
+      "max_size": 500,
+      "filter": true
+    },
+    "chunk_stats": {
+      "count": 550,
+      "total_chars": 202848,
+      "min": 1,
+      "max": 500,
+      "mean": 368.8,
+      "p50": 425,
+      "p90": 491
+    },
+    "stored": 550,
+    "ingest_seconds": 129.45,
+    "summary": {
+      "dev": {
+        "n": 15,
+        "hit1": 4,
+        "hit3": 9
+      },
+      "test": {
+        "n": 5,
+        "hit1": 2,
+        "hit3": 4
+      }
+    }
+  }
+}

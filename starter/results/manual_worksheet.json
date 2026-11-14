@@ -1,0 +1,651 @@
+{
+  "coherence": [
+    {
+      "page": 7,
+      "marker": "Figure 1.1 Purchasing pounds of fruit at a fruit market requires a basic understanding of numbers. (credit: Dr. Karl-Hei",
+      "strategies": {
+        "A": {
+          "chunk_id": "prealgebra-2e|p7|0",
+          "text": "Figure 1.1 Purchasing pounds of fruit at a fruit market requires a basic understanding of numbers. (credit: Dr. Karl-Heinz Hochhaus, Wikimedia Commons) Chapter Outline 1.1 Introduction to Whole Numbers 1.2 Add Whole Numbers 1.3 Subtract Whole Numbers 1.4 Multiply Whole Numbers 1.5 Divide Whole Numbers Introduction Even though counting is first taught at a young age, mastering mathematics, which is the study of numbers, requires constant attention. If it has been a while since you have studied ma"
+        },
+        "B": {
+          "chunk_id": "prealgebra-2e|p7|0",
+          "text": "Figure 1.1 Purchasing pounds of fruit at a fruit market requires a basic understanding of numbers. (credit: Dr. Karl-Heinz Hochhaus, Wikimedia Commons) Chapter Outline 1.1 Introduction to Whole Numbers 1.2 Add Whole Numbers 1.3 Subtract Whole Numbers 1.4 Multiply Whole Numbers 1.5 Divide Whole Numbers Introduction Even though counting is first taught at a young age, mastering mathematics, which is the study of numbers, requires constant attention."
+        },
+        "C": {
+          "chunk_id": "prealgebra-2e|p7|0",
+          "text": "Figure 1.1 Purchasing pounds of fruit at a fruit market requires a basic understanding of numbers. (credit: Dr. Karl-Heinz Hochhaus, Wikimedia Commons) Chapter Outline 1.1 Introduction to Whole Numbers 1.2 Add Whole Numbers 1.3 Subtract Whole Numbers 1.4 Multiply Whole Numbers 1.5 Divide Whole Numbers Introduction Even though counting is first taught at a young age, mastering mathematics, which is the study of numbers, requires constant attention."
+        }
+      }
+    },
+    {
+      "page": 8,
+      "marker": "Counting Numbers The counting numbers start with and continue. Counting numbers and whole numbers can be visualized on a",
+      "strategies": {
+        "A": {
+          "chunk_id": "prealgebra-2e|p8|0",
+          "text": "Counting Numbers The counting numbers start with and continue. Counting numbers and whole numbers can be visualized on a number line as shown in Figure 1.2. Figure 1.2 The numbers on the number line increase from left to right, and decrease from right to left. The point labeled is called the origin. The points are equally spaced to the right of and labeled with the counting numbers. When a number is paired with a point, it is called the coordinate of the point. The discovery of the number zero w"
+        },
+        "B": {
+          "chunk_id": "prealgebra-2e|p8|0",
+          "text": "Counting Numbers The counting numbers start with and continue. Counting numbers and whole numbers can be visualized on a number line as shown in Figure 1.2. Figure 1.2 The numbers on the number line increase from left to right, and decrease from right to left. The point labeled is called the origin. The points are equally spaced to the right of and labeled with the counting numbers. When a number is paired with a point, it is called the coordinate of the point."
+        },
+        "C": {
+          "chunk_id": "prealgebra-2e|p8|0",
+          "text": "Counting Numbers The counting numbers start with and continue. Counting numbers and whole numbers can be visualized on a number line as shown in Figure 1.2. Figure 1.2 The numbers on the number line increase from left to right, and decrease from right to left. The point labeled is called the origin. The points are equally spaced to the right of and labeled with the counting numbers. When a number is paired with a point, it is called the coordinate of the point."
+        }
+      }
+    },
+    {
+      "page": 9,
+      "marker": "bills. The amounts are summarized in Figure 1.3. How much money is in the wallet? Figure 1.3 Find the total value of eac",
+      "strategies": {
+        "A": {
+          "chunk_id": "prealgebra-2e|p9|0",
+          "text": "bills. The amounts are summarized in Figure 1.3. How much money is in the wallet? Figure 1.3 Find the total value of each kind of bill, and then add to find the total. The wallet contains Base-10 blocks provide another way to model place value, as shown in Figure 1.4. The blocks can be used to represent hundreds, tens, and ones. Notice that the tens rod is made up of ones, and the hundreds square is made of tens, or ones. Figure 1.4 Figure 1.5 shows the number modeled with blocks. Figure 1.5 We"
+        },
+        "B": {
+          "chunk_id": "prealgebra-2e|p9|0",
+          "text": "bills. The amounts are summarized in Figure 1.3. How much money is in the wallet? Figure 1.3 Find the total value of each kind of bill, and then add to find the total. The wallet contains Base-10 blocks provide another way to model place value, as shown in Figure 1.4. The blocks can be used to represent hundreds, tens, and ones. Notice that the tens rod is made up of ones, and the hundreds square is made of tens, or ones. Figure 1.4 Figure 1.5 shows the number modeled with blocks."
+        },
+        "C": {
+          "chunk_id": "prealgebra-2e|p9|0",
+          "text": "bills. The amounts are summarized in Figure 1.3. How much money is in the wallet? Figure 1.3 Find the total value of each kind of bill, and then add to find the total. The wallet contains Base-10 blocks provide another way to model place value, as shown in Figure 1.4. The blocks can be used to represent hundreds, tens, and ones. Notice that the tens rod is made up of ones, and the hundreds square is made of tens, or ones. Figure 1.4 Figure 1.5 shows the number modeled with blocks."
+        }
+      }
+    },
+    {
+      "page": 10,
+      "marker": "Digit Place value Number Value Total value ones EXAMPLE 1.2 Use place value notation to find the value of the number mod",
+      "strategies": {
+        "A": {
+          "chunk_id": "prealgebra-2e|p10|0",
+          "text": "Digit Place value Number Value Total value ones EXAMPLE 1.2 Use place value notation to find the value of the number modeled by the blocks shown. Solution There are hundreds squares, which is There is tens rod, which is There are ones blocks, which is Digit Place value Number Value Total value hundreds tens ones The blocks model the number TRY IT 1.3 Use place value notation to find the value of the number modeled by the blocks shown. TRY IT 1.4 Use place value notation to find the value of the"
+        },
+        "B": {
+          "chunk_id": "prealgebra-2e|p10|0",
+          "text": "Digit Place value Number Value Total value ones EXAMPLE 1.2 Use place value notation to find the value of the number modeled by the blocks shown. Solution There are hundreds squares, which is There is tens rod, which is There are ones blocks, which is Digit Place value Number Value Total value hundreds tens ones The blocks model the number TRY IT 1.3 Use place value notation to find the value of the number modeled by the blocks shown."
+        },
+        "C": {
+          "chunk_id": "prealgebra-2e|p10|0",
+          "text": "Digit Place value Number Value Total value ones EXAMPLE 1.2 Use place value notation to find the value of the number modeled by the blocks shown. Solution There are hundreds squares, which is There is tens rod, which is There are ones blocks, which is Digit Place value Number Value Total value hundreds tens ones The blocks model the number TRY IT 1.3 Use place value notation to find the value of the number modeled by the blocks shown."
+        }
+      }
+    },
+    {
+      "page": 11,
+      "marker": "MANIPULATIVE MATHEMATICS Doing the Manipulative Mathematics activity Number Line-Part 1 will help you develop a better u",
+      "strategies": {
+        "A": {
+          "chunk_id": "prealgebra-2e|p11|0",
+          "text": "MANIPULATIVE MATHEMATICS Doing the Manipulative Mathematics activity Number Line-Part 1 will help you develop a better understanding of the counting numbers and the whole numbers. Identify the Place Value of a Digit By looking at money and blocks, we saw that each place in a number has a different value. A place value chart is a useful way to summarize this information. The place values are separated into groups of three, called periods. The periods are ones, thousands, millions, billions, trill"
+        },
+        "B": {
+          "chunk_id": "prealgebra-2e|p11|0",
+          "text": "MANIPULATIVE MATHEMATICS Doing the Manipulative Mathematics activity Number Line-Part 1 will help you develop a better understanding of the counting numbers and the whole numbers. Identify the Place Value of a Digit By looking at money and blocks, we saw that each place in a number has a different value. A place value chart is a useful way to summarize this information. The place values are separated into groups of three, called periods."
+        },
+        "C": {
+          "chunk_id": "prealgebra-2e|p11|0",
+          "text": "MANIPULATIVE MATHEMATICS Doing the Manipulative Mathematics activity Number Line-Part 1 will help you develop a better understanding of the counting numbers and the whole numbers. Identify the Place Value of a Digit By looking at money and blocks, we saw that each place in a number has a different value. A place value chart is a useful way to summarize this information. The place values are separated into groups of three, called periods."
+        }
+      }
+    },
+    {
+      "page": 12,
+      "marker": "... a The is in the thousands place. b The is in the ten thousands place. c The is in the tens place. d The is in the te",
+      "strategies": {
+        "A": {
+          "chunk_id": "prealgebra-2e|p12|0",
+          "text": "... a The is in the thousands place. b The is in the ten thousands place. c The is in the tens place. d The is in the ten millions place. e The is in the millions place. TRY IT 1.5 For each number, find the place value of digits listed: a b c d e TRY IT 1.6 For each number, find the place value of digits listed: a b c d e Use Place Value to Name Whole Numbers When you write a check, you write out the number in words as well as in digits. To write a number in words, write the number in each perio"
+        },
+        "B": {
+          "chunk_id": "prealgebra-2e|p12|0",
+          "text": "... a The is in the thousands place. b The is in the ten thousands place. c The is in the tens place. d The is in the ten millions place. e The is in the millions place. TRY IT 1.5 For each number, find the place value of digits listed: a b c d e TRY IT 1.6 For each number, find the place value of digits listed: a b c d e Use Place Value to Name Whole Numbers When you write a check, you write out the number in words as well as in digits."
+        },
+        "C": {
+          "chunk_id": "prealgebra-2e|p12|0",
+          "text": "... a The is in the thousands place. b The is in the ten thousands place. c The is in the tens place. d The is in the ten millions place. e The is in the millions place. TRY IT 1.5 For each number, find the place value of digits listed: a b c d e TRY IT 1.6 For each number, find the place value of digits listed: a b c d e Use Place Value to Name Whole Numbers When you write a check, you write out the number in words as well as in digits."
+        }
+      }
+    },
+    {
+      "page": 13,
+      "marker": "Solution Begin with the leftmost digit, which is 8. It is in the trillions place. eight trillion The next period to the ",
+      "strategies": {
+        "A": {
+          "chunk_id": "prealgebra-2e|p13|0",
+          "text": "Solution Begin with the leftmost digit, which is 8. It is in the trillions place. eight trillion The next period to the right is billions. one hundred sixty-five billion The next period to the right is millions. four hundred thirty-two million The next period to the right is thousands. ninety-eight thousand The rightmost period shows the ones. seven hundred ten Putting all of the words together, we write as eight trillion, one hundred sixty-five billion, four hundred thirty-two million, ninety-e"
+        },
+        "B": {
+          "chunk_id": "prealgebra-2e|p13|0",
+          "text": "Solution Begin with the leftmost digit, which is 8."
+        },
+        "C": {
+          "chunk_id": "prealgebra-2e|p13|0",
+          "text": "Solution Begin with the leftmost digit, which is 8."
+        }
+      }
+    },
+    {
+      "page": 14,
+      "marker": "... Use Place Value to Write Whole Numbers We will now reverse the process and write a number given in words as digits. ",
+      "strategies": {
+        "A": {
+          "chunk_id": "prealgebra-2e|p14|0",
+          "text": "... Use Place Value to Write Whole Numbers We will now reverse the process and write a number given in words as digits. HOW TO Use place value to write a whole number. Step 1. Identify the words that indicate periods. (Remember the ones period is never named.) Step 2. Draw three blanks to indicate the number of places needed in each period. Separate the periods by commas. Step 3. Name the number in each period and place the digits in the correct place value position. EXAMPLE 1.6 Write the follow"
+        },
+        "B": {
+          "chunk_id": "prealgebra-2e|p14|0",
+          "text": "... Use Place Value to Write Whole Numbers We will now reverse the process and write a number given in words as digits. HOW TO Use place value to write a whole number. Step 1. Identify the words that indicate periods. (Remember the ones period is never named.) Step 2. Draw three blanks to indicate the number of places needed in each period. Separate the periods by commas. Step 3. Name the number in each period and place the digits in the correct place value position."
+        },
+        "C": {
+          "chunk_id": "prealgebra-2e|p14|0",
+          "text": "... Use Place Value to Write Whole Numbers We will now reverse the process and write a number given in words as digits. HOW TO Use place value to write a whole number. Step 1. Identify the words that indicate periods. (Remember the ones period is never named.) Step 2. Draw three blanks to indicate the number of places needed in each period. Separate the periods by commas. Step 3. Name the number in each period and place the digits in the correct place value position."
+        }
+      }
+    },
+    {
+      "page": 15,
+      "marker": "two billion, twenty-two million, seven hundred fourteen thousand, four hundred sixty-six. EXAMPLE 1.7 A state budget was",
+      "strategies": {
+        "A": {
+          "chunk_id": "prealgebra-2e|p15|0",
+          "text": "two billion, twenty-two million, seven hundred fourteen thousand, four hundred sixty-six. EXAMPLE 1.7 A state budget was about billion. Write the budget in standard form. Solution Identify the periods. In this case, only two digits are given and they are in the billions period. To write the entire number, write zeros for all of the other periods. So the budget was about TRY IT 1.13 Write each number in standard form: The closest distance from Earth to Mars is about million miles. TRY IT 1.14 Wri"
+        },
+        "B": {
+          "chunk_id": "prealgebra-2e|p15|0",
+          "text": "two billion, twenty-two million, seven hundred fourteen thousand, four hundred sixty-six. EXAMPLE 1.7 A state budget was about billion. Write the budget in standard form. Solution Identify the periods. In this case, only two digits are given and they are in the billions period. To write the entire number, write zeros for all of the other periods. So the budget was about TRY IT 1.13 Write each number in standard form: The closest distance from Earth to Mars is about million miles."
+        },
+        "C": {
+          "chunk_id": "prealgebra-2e|p15|0",
+          "text": "two billion, twenty-two million, seven hundred fourteen thousand, four hundred sixty-six. EXAMPLE 1.7 A state budget was about billion. Write the budget in standard form. Solution Identify the periods. In this case, only two digits are given and they are in the billions period. To write the entire number, write zeros for all of the other periods. So the budget was about TRY IT 1.13 Write each number in standard form: The closest distance from Earth to Mars is about million miles."
+        }
+      }
+    },
+    {
+      "page": 16,
+      "marker": "... Now that we have looked at this process on the number line, we can introduce a more general procedure. To round a nu",
+      "strategies": {
+        "A": {
+          "chunk_id": "prealgebra-2e|p16|0",
+          "text": "... Now that we have looked at this process on the number line, we can introduce a more general procedure. To round a number to a specific place, look at the number to the right of that place. If the number is less than round down. If it is greater than or equal to round up. So, for example, to round to the nearest ten, we look at the digit in the ones place. The digit in the ones place is a Because is greater than or equal to we increase the digit in the tens place by one. So the in the tens pl"
+        },
+        "B": {
+          "chunk_id": "prealgebra-2e|p16|0",
+          "text": "... Now that we have looked at this process on the number line, we can introduce a more general procedure. To round a number to a specific place, look at the number to the right of that place. If the number is less than round down. If it is greater than or equal to round up. So, for example, to round to the nearest ten, we look at the digit in the ones place. The digit in the ones place is a Because is greater than or equal to we increase the digit in the tens place by one."
+        },
+        "C": {
+          "chunk_id": "prealgebra-2e|p16|0",
+          "text": "... Now that we have looked at this process on the number line, we can introduce a more general procedure. To round a number to a specific place, look at the number to the right of that place. If the number is less than round down. If it is greater than or equal to round up. So, for example, to round to the nearest ten, we look at the digit in the ones place. The digit in the ones place is a Because is greater than or equal to we increase the digit in the tens place by one."
+        }
+      }
+    }
+  ],
+  "grounding": [
+    {
+      "strategy": "A",
+      "question_id": "q16",
+      "question": "Các số đếm (counting numbers) còn được gọi là gì?",
+      "expected_answer": "Số tự nhiên (natural numbers).",
+      "gold_page": 7,
+      "evidence_quote": "Counting numbers are also called natural numbers.",
+      "hits": [
+        {
+          "page": 8,
+          "chapter": "Whole Numbers",
+          "section": "1.1 Introduction to Whole Numbers",
+          "score": 0.809799,
+          "text": "e of the point. The discovery of the number zero was a big step in the history of mathematics. Including zero with the counting numbers gives a new set of numbers called the whole numbers. Whole Numbers The whole numbers are the counting numbers and zero. We stopped at when listing the first few counting numbers and whole numbers. We could have written more numbers if they were needed to make the patterns clear. EXAMPLE 1.1 Which of the following are a counting numbers? b whole numbers? Solution"
+        },
+        {
+          "page": 8,
+          "chapter": "Whole Numbers",
+          "section": "1.1 Introduction to Whole Numbers",
+          "score": 0.806108,
+          "text": "Counting Numbers The counting numbers start with and continue. Counting numbers and whole numbers can be visualized on a number line as shown in Figure 1.2. Figure 1.2 The numbers on the number line increase from left to right, and decrease from right to left. The point labeled is called the origin. The points are equally spaced to the right of and labeled with the counting numbers. When a number is paired with a point, it is called the coordinate of the point. The discovery of the number zero w"
+        },
+        {
+          "page": 8,
+          "chapter": "Whole Numbers",
+          "section": "1.1 Introduction to Whole Numbers",
+          "score": 0.805943,
+          "text": "are a counting numbers? b whole numbers? Solution a The counting numbers start at so is not a counting number. The numbers are all counting numbers. b Whole numbers are counting numbers and The numbers are whole numbers. The numbers and are neither counting numbers nor whole numbers. We will discuss these numbers later. TRY IT 1.1 Which of the following are a counting numbers b whole numbers? TRY IT 1.2 Which of the following are a counting numbers b whole numbers? Model Whole Numbers Our numbe"
+        }
+      ]
+    },
+    {
+      "strategy": "A",
+      "question_id": "q17",
+      "question": "Hợp số (composite number) là gì?",
+      "expected_answer": "Là một số đếm không phải là số nguyên tố.",
+      "gold_page": 148,
+      "evidence_quote": "A composite number is a counting number that is not prime.",
+      "hits": [
+        {
+          "page": 148,
+          "chapter": "The Language of Algebra",
+          "section": "2.4 Find Multiples and Factors",
+          "score": 0.824958,
+          "text": "numbers, such as have only two factors: and the number. A number with only two factors is called a prime number. A number with more than two factors is called a composite number. The number is neither prime nor composite. It has only one factor, itself. Prime Numbers and Composite Numbers A prime number is a counting number greater than whose only factors are and itself. A composite number is a counting number that is not prime. Figure 2.10 lists the counting numbers from through along with the"
+        },
+        {
+          "page": 152,
+          "chapter": "The Language of Algebra",
+          "section": "2.5 Prime Factorization and the Least Common Multiple",
+          "score": 0.813782,
+          "text": "Prime numbers have only two factors, the number and the prime number itself. Composite numbers have more than two factors, and every composite number can be written as a unique product of primes. This is called the prime factorization of a number. When we write the prime factorization of a number, we are rewriting the number as a product of primes. Finding the prime factorization of a composite number will help you later in this course. Prime Factorization The prime factorization of a number is"
+        },
+        {
+          "page": 152,
+          "chapter": "The Language of Algebra",
+          "section": "2.5 Prime Factorization and the Least Common Multiple",
+          "score": 0.807711,
+          "text": "ast common multiple (LCM) of two numbers BE PREPARED 2.12 Before you get started, take this readiness quiz. Is divisible by If you missed this problem, review Example 2.44. BE PREPARED 2.13 Is prime or composite? If you missed this problem, review Example 2.47. Write in exponential notation. If you missed this problem, review Example 2.5. Find the Prime Factorization of a Composite Number In the previous section, we found the factors of a number. Prime numbers have only two factors, the number a"
+        }
+      ]
+    },
+    {
+      "strategy": "A",
+      "question_id": "q18",
+      "question": "Bội chung nhỏ nhất (LCM) của hai số là gì?",
+      "expected_answer": "Là số nhỏ nhất là bội chung của cả hai số.",
+      "gold_page": 157,
+      "evidence_quote": "The smallest number that is a multiple of two numbers is called the least common multiple",
+      "hits": [
+        {
+          "page": 157,
+          "chapter": "The Language of Algebra",
+          "section": "2.5 Prime Factorization and the Least Common Multiple",
+          "score": 0.845813,
+          "text": "s. We see that and appear in both lists. They are common multiples of and We would find more common multiples if we continued the list of multiples for each. The smallest number that is a multiple of two numbers is called the least common multiple (LCM). So the least LCM of and is HOW TO Find the least common multiple (LCM) of two numbers by listing multiples. Step 1. List the first several multiples of each number. Step 2. Look for multiples common to both lists. If there are no common multiple"
+        },
+        {
+          "page": 158,
+          "chapter": "The Language of Algebra",
+          "section": "2.5 Prime Factorization and the Least Common Multiple",
+          "score": 0.833643,
+          "text": "... The smallest number to appear on both lists is so is the least common multiple of and Notice that is on both lists, too. It is a common multiple, but it is not the least common multiple. TRY IT 2.103 Find the least common multiple (LCM) of the given numbers: TRY IT 2.104 Find the least common multiple (LCM) of the given numbers: Prime Factors Method Another way to find the least common multiple of two numbers is to use their prime factors. We’ll use this method to find the LCM of and We star"
+        },
+        {
+          "page": 160,
+          "chapter": "The Language of Algebra",
+          "section": "2.5 Prime Factorization and the Least Common Multiple",
+          "score": 0.831686,
+          "text": "nd the prime factorization of each number using any method. 287 . 288 . 289 . 290 . 291 . 292 . 293 . 294 . Find the Least Common Multiple (LCM) of Two Numbers In the following exercises, find the least common multiple (LCM) by listing multiples. 295 . 296 . 297 . 298 . 299 . 300 . 301 . 302 . In the following exercises, find the least common multiple (LCM) by using the prime factors method. 303 . 304 . 305 . 306 . 307 . 308 . In the following exercises, find the least common multiple (LCM) usin"
+        }
+      ]
+    },
+    {
+      "strategy": "A",
+      "question_id": "q19",
+      "question": "Bội chung nhỏ nhất (LCM) của 15 và 18 là bao nhiêu?",
+      "expected_answer": "90.",
+      "gold_page": 159,
+      "evidence_quote": "The LCM of 15 and 18 is 90.",
+      "hits": [
+        {
+          "page": 160,
+          "chapter": "The Language of Algebra",
+          "section": "2.5 Prime Factorization and the Least Common Multiple",
+          "score": 0.806009,
+          "text": "ercises, find the least common multiple (LCM) using any method. 309 . 310 . 311 . 312 . Everyday Math 313 . Grocery shopping Hot dogs are sold in packages of ten, but hot dog buns come in packs of eight. What is the smallest number of hot dogs and buns that can be purchased if you want to have the same number of hot dogs and buns? (Hint: it is the LCM!) 314 . Grocery shopping Paper plates are sold in packages of and party cups come in packs of What is the smallest number of plates and cups you c"
+        },
+        {
+          "page": 159,
+          "chapter": "The Language of Algebra",
+          "section": "2.5 Prime Factorization and the Least Common Multiple",
+          "score": 0.804044,
+          "text": "Bring down the primes in each column. Multiply the factors to get the LCM. The LCM of 15 and 18 is 90. TRY IT 2.105 Find the LCM using the prime factors method. TRY IT 2.106 Find the LCM using the prime factors method. EXAMPLE 2.54 Find the LCM of and using the prime factors method. Solution Write the prime factorization of each number. Write each number as a product of primes, matching primes vertically when possible. Bring down the primes in each column. Multiply the factors to get the LCM. Th"
+        },
+        {
+          "page": 169,
+          "chapter": "The Language of Algebra",
+          "section": "Chapter 2 Exercises",
+          "score": 0.80119,
+          "text": ". Find the LCM (Least Common Multiple) of and 2 • Exercises 169"
+        }
+      ]
+    },
+    {
+      "strategy": "A",
+      "question_id": "q20",
+      "question": "Trong chương The Language of Algebra, số nguyên tố (prime number) được định nghĩa như thế nào?",
+      "expected_answer": "Là số đếm lớn hơn 1 mà chỉ có đúng hai ước là 1 và chính nó.",
+      "gold_page": 162,
+      "evidence_quote": "A prime number is a counting number greater than 1 whose only factors are 1 and itself.",
+      "hits": [
+        {
+          "page": 148,
+          "chapter": "The Language of Algebra",
+          "section": "2.4 Find Multiples and Factors",
+          "score": 0.816426,
+          "text": "of the smaller prime numbers in order to see if it is a factor of the number. If none of the prime numbers are factors, then that number is also prime. 148 2 • The Language of Algebra Access for free at openstax.org"
+        },
+        {
+          "page": 158,
+          "chapter": "The Language of Algebra",
+          "section": "2.5 Prime Factorization and the Least Common Multiple",
+          "score": 0.816088,
+          "text": "each number as a product of primes, matching primes vertically when possible. 158 2 • The Language of Algebra Access for free at openstax.org"
+        },
+        {
+          "page": 95,
+          "chapter": "The Language of Algebra",
+          "section": "2.1 Use the Language of Algebra",
+          "score": 0.813325,
+          "text": "Figure 2.1 Algebra has a language of its own. The picture shows just some of the words you may see and use in your study of Prealgebra. Chapter Outline 2.1 Use the Language of Algebra 2.2 Evaluate, Simplify, and Translate Expressions 2.3 Solving Equations Using the Subtraction and Addition Properties of Equality 2.4 Find Multiples and Factors 2.5 Prime Factorization and the Least Common Multiple Introduction to the Language of Algebra You may not realize it, but you already use algebra every day"
+        }
+      ]
+    },
+    {
+      "strategy": "B",
+      "question_id": "q16",
+      "question": "Các số đếm (counting numbers) còn được gọi là gì?",
+      "expected_answer": "Số tự nhiên (natural numbers).",
+      "gold_page": 7,
+      "evidence_quote": "Counting numbers are also called natural numbers.",
+      "hits": [
+        {
+          "page": 121,
+          "chapter": "The Language of Algebra",
+          "section": "2.2 Evaluate, Simplify, and Translate Expressions",
+          "score": 0.817347,
+          "text": "numbers."
+        },
+        {
+          "page": 8,
+          "chapter": "Whole Numbers",
+          "section": "1.1 Introduction to Whole Numbers",
+          "score": 0.812788,
+          "text": "The discovery of the number zero was a big step in the history of mathematics. Including zero with the counting numbers gives a new set of numbers called the whole numbers. Whole Numbers The whole numbers are the counting numbers and zero. We stopped at when listing the first few counting numbers and whole numbers. We could have written more numbers if they were needed to make the patterns clear. EXAMPLE 1.1 Which of the following are a counting numbers? b whole numbers?"
+        },
+        {
+          "page": 7,
+          "chapter": "Whole Numbers",
+          "section": "1.1 Introduction to Whole Numbers",
+          "score": 0.807574,
+          "text": "The notation “...” is called an ellipsis, which is another way to show “and so on”, or that the pattern continues endlessly. Counting numbers are also called natural numbers. 1 WHOLE NUMBERS 1 • Introduction 7"
+        }
+      ]
+    },
+    {
+      "strategy": "B",
+      "question_id": "q17",
+      "question": "Hợp số (composite number) là gì?",
+      "expected_answer": "Là một số đếm không phải là số nguyên tố.",
+      "gold_page": 148,
+      "evidence_quote": "A composite number is a counting number that is not prime.",
+      "hits": [
+        {
+          "page": 148,
+          "chapter": "The Language of Algebra",
+          "section": "2.4 Find Multiples and Factors",
+          "score": 0.829734,
+          "text": "Other numbers, such as have only two factors: and the number. A number with only two factors is called a prime number. A number with more than two factors is called a composite number. The number is neither prime nor composite. It has only one factor, itself. Prime Numbers and Composite Numbers A prime number is a counting number greater than whose only factors are and itself. A composite number is a counting number that is not prime."
+        },
+        {
+          "page": 152,
+          "chapter": "The Language of Algebra",
+          "section": "2.5 Prime Factorization and the Least Common Multiple",
+          "score": 0.809356,
+          "text": "Write in exponential notation. If you missed this problem, review Example 2.5. Find the Prime Factorization of a Composite Number In the previous section, we found the factors of a number. Prime numbers have only two factors, the number and the prime number itself. Composite numbers have more than two factors, and every composite number can be written as a unique product of primes. This is called the prime factorization of a number."
+        },
+        {
+          "page": 151,
+          "chapter": "The Language of Algebra",
+          "section": "2.4 Find Multiples and Factors",
+          "score": 0.805381,
+          "text": "If a number is divisible by and by why is it also divisible by 266 . What is the difference between prime numbers and composite numbers? 2.4 • Find Multiples and Factors 151"
+        }
+      ]
+    },
+    {
+      "strategy": "B",
+      "question_id": "q18",
+      "question": "Bội chung nhỏ nhất (LCM) của hai số là gì?",
+      "expected_answer": "Là số nhỏ nhất là bội chung của cả hai số.",
+      "gold_page": 157,
+      "evidence_quote": "The smallest number that is a multiple of two numbers is called the least common multiple",
+      "hits": [
+        {
+          "page": 157,
+          "chapter": "The Language of Algebra",
+          "section": "2.5 Prime Factorization and the Least Common Multiple",
+          "score": 0.843577,
+          "text": "Then we look for multiples that are common to both lists—these are the common multiples. We see that and appear in both lists. They are common multiples of and We would find more common multiples if we continued the list of multiples for each. The smallest number that is a multiple of two numbers is called the least common multiple (LCM). So the least LCM of and is HOW TO Find the least common multiple (LCM) of two numbers by listing multiples. Step 1."
+        },
+        {
+          "page": 169,
+          "chapter": "The Language of Algebra",
+          "section": "Chapter 2 Exercises",
+          "score": 0.831516,
+          "text": "Find the LCM (Least Common Multiple) of and 2 • Exercises 169"
+        },
+        {
+          "page": 158,
+          "chapter": "The Language of Algebra",
+          "section": "2.5 Prime Factorization and the Least Common Multiple",
+          "score": 0.830049,
+          "text": "... The smallest number to appear on both lists is so is the least common multiple of and Notice that is on both lists, too. It is a common multiple, but it is not the least common multiple. TRY IT 2.103 Find the least common multiple (LCM) of the given numbers: TRY IT 2.104 Find the least common multiple (LCM) of the given numbers: Prime Factors Method Another way to find the least common multiple of two numbers is to use their prime factors."
+        }
+      ]
+    },
+    {
+      "strategy": "B",
+      "question_id": "q19",
+      "question": "Bội chung nhỏ nhất (LCM) của 15 và 18 là bao nhiêu?",
+      "expected_answer": "90.",
+      "gold_page": 159,
+      "evidence_quote": "The LCM of 15 and 18 is 90.",
+      "hits": [
+        {
+          "page": 169,
+          "chapter": "The Language of Algebra",
+          "section": "Chapter 2 Exercises",
+          "score": 0.805394,
+          "text": "Find the LCM (Least Common Multiple) of and 2 • Exercises 169"
+        },
+        {
+          "page": 160,
+          "chapter": "The Language of Algebra",
+          "section": "2.5 Prime Factorization and the Least Common Multiple",
+          "score": 0.796458,
+          "text": "In the following exercises, find the least common multiple (LCM) using any method. 309 . 310 . 311 . 312 . Everyday Math 313 . Grocery shopping Hot dogs are sold in packages of ten, but hot dog buns come in packs of eight. What is the smallest number of hot dogs and buns that can be purchased if you want to have the same number of hot dogs and buns? (Hint: it is the LCM!) 314 ."
+        },
+        {
+          "page": 157,
+          "chapter": "The Language of Algebra",
+          "section": "2.5 Prime Factorization and the Least Common Multiple",
+          "score": 0.796058,
+          "text": "Then we look for multiples that are common to both lists—these are the common multiples. We see that and appear in both lists. They are common multiples of and We would find more common multiples if we continued the list of multiples for each. The smallest number that is a multiple of two numbers is called the least common multiple (LCM). So the least LCM of and is HOW TO Find the least common multiple (LCM) of two numbers by listing multiples. Step 1."
+        }
+      ]
+    },
+    {
+      "strategy": "B",
+      "question_id": "q20",
+      "question": "Trong chương The Language of Algebra, số nguyên tố (prime number) được định nghĩa như thế nào?",
+      "expected_answer": "Là số đếm lớn hơn 1 mà chỉ có đúng hai ước là 1 và chính nó.",
+      "gold_page": 162,
+      "evidence_quote": "A prime number is a counting number greater than 1 whose only factors are 1 and itself.",
+      "hits": [
+        {
+          "page": 95,
+          "chapter": "The Language of Algebra",
+          "section": "2.1 Use the Language of Algebra",
+          "score": 0.811708,
+          "text": "Chapter Outline 2.1 Use the Language of Algebra 2.2 Evaluate, Simplify, and Translate Expressions 2.3 Solving Equations Using the Subtraction and Addition Properties of Equality 2.4 Find Multiples and Factors 2.5 Prime Factorization and the Least Common Multiple Introduction to the Language of Algebra You may not realize it, but you already use algebra every day. Perhaps you figure out how much to tip a server in a restaurant."
+        },
+        {
+          "page": 158,
+          "chapter": "The Language of Algebra",
+          "section": "2.5 Prime Factorization and the Least Common Multiple",
+          "score": 0.810933,
+          "text": "Write each number as a product of primes, matching primes vertically when possible. 158 2 • The Language of Algebra Access for free at openstax.org"
+        },
+        {
+          "page": 162,
+          "chapter": "The Language of Algebra",
+          "section": "Chapter 2 Review",
+          "score": 0.809184,
+          "text": "of prime numbers that equals the number. prime number A prime number is a counting number greater than 1 whose only factors are 1 and itself. solution of an equation A solution to an equation is a value of a variable that makes a true statement when substituted into the equation."
+        }
+      ]
+    },
+    {
+      "strategy": "C",
+      "question_id": "q16",
+      "question": "Các số đếm (counting numbers) còn được gọi là gì?",
+      "expected_answer": "Số tự nhiên (natural numbers).",
+      "gold_page": 7,
+      "evidence_quote": "Counting numbers are also called natural numbers.",
+      "hits": [
+        {
+          "page": 121,
+          "chapter": "The Language of Algebra",
+          "section": "2.2 Evaluate, Simplify, and Translate Expressions",
+          "score": 0.817347,
+          "text": "numbers."
+        },
+        {
+          "page": 8,
+          "chapter": "Whole Numbers",
+          "section": "1.1 Introduction to Whole Numbers",
+          "score": 0.812788,
+          "text": "The discovery of the number zero was a big step in the history of mathematics. Including zero with the counting numbers gives a new set of numbers called the whole numbers. Whole Numbers The whole numbers are the counting numbers and zero. We stopped at when listing the first few counting numbers and whole numbers. We could have written more numbers if they were needed to make the patterns clear. EXAMPLE 1.1 Which of the following are a counting numbers? b whole numbers?"
+        },
+        {
+          "page": 7,
+          "chapter": "Whole Numbers",
+          "section": "1.1 Introduction to Whole Numbers",
+          "score": 0.807574,
+          "text": "The notation “...” is called an ellipsis, which is another way to show “and so on”, or that the pattern continues endlessly. Counting numbers are also called natural numbers. 1 WHOLE NUMBERS 1 • Introduction 7"
+        }
+      ]
+    },
+    {
+      "strategy": "C",
+      "question_id": "q17",
+      "question": "Hợp số (composite number) là gì?",
+      "expected_answer": "Là một số đếm không phải là số nguyên tố.",
+      "gold_page": 148,
+      "evidence_quote": "A composite number is a counting number that is not prime.",
+      "hits": [
+        {
+          "page": 148,
+          "chapter": "The Language of Algebra",
+          "section": "2.4 Find Multiples and Factors",
+          "score": 0.829734,
+          "text": "Other numbers, such as have only two factors: and the number. A number with only two factors is called a prime number. A number with more than two factors is called a composite number. The number is neither prime nor composite. It has only one factor, itself. Prime Numbers and Composite Numbers A prime number is a counting number greater than whose only factors are and itself. A composite number is a counting number that is not prime."
+        },
+        {
+          "page": 152,
+          "chapter": "The Language of Algebra",
+          "section": "2.5 Prime Factorization and the Least Common Multiple",
+          "score": 0.809356,
+          "text": "Write in exponential notation. If you missed this problem, review Example 2.5. Find the Prime Factorization of a Composite Number In the previous section, we found the factors of a number. Prime numbers have only two factors, the number and the prime number itself. Composite numbers have more than two factors, and every composite number can be written as a unique product of primes. This is called the prime factorization of a number."
+        },
+        {
+          "page": 151,
+          "chapter": "The Language of Algebra",
+          "section": "2.4 Find Multiples and Factors",
+          "score": 0.805381,
+          "text": "If a number is divisible by and by why is it also divisible by 266 . What is the difference between prime numbers and composite numbers? 2.4 • Find Multiples and Factors 151"
+        }
+      ]
+    },
+    {
+      "strategy": "C",
+      "question_id": "q18",
+      "question": "Bội chung nhỏ nhất (LCM) của hai số là gì?",
+      "expected_answer": "Là số nhỏ nhất là bội chung của cả hai số.",
+      "gold_page": 157,
+      "evidence_quote": "The smallest number that is a multiple of two numbers is called the least common multiple",
+      "hits": [
+        {
+          "page": 157,
+          "chapter": "The Language of Algebra",
+          "section": "2.5 Prime Factorization and the Least Common Multiple",
+          "score": 0.843577,
+          "text": "Then we look for multiples that are common to both lists—these are the common multiples. We see that and appear in both lists. They are common multiples of and We would find more common multiples if we continued the list of multiples for each. The smallest number that is a multiple of two numbers is called the least common multiple (LCM). So the least LCM of and is HOW TO Find the least common multiple (LCM) of two numbers by listing multiples. Step 1."
+        },
+        {
+          "page": 169,
+          "chapter": "The Language of Algebra",
+          "section": "Chapter 2 Exercises",
+          "score": 0.831516,
+          "text": "Find the LCM (Least Common Multiple) of and 2 • Exercises 169"
+        },
+        {
+          "page": 158,
+          "chapter": "The Language of Algebra",
+          "section": "2.5 Prime Factorization and the Least Common Multiple",
+          "score": 0.830049,
+          "text": "... The smallest number to appear on both lists is so is the least common multiple of and Notice that is on both lists, too. It is a common multiple, but it is not the least common multiple. TRY IT 2.103 Find the least common multiple (LCM) of the given numbers: TRY IT 2.104 Find the least common multiple (LCM) of the given numbers: Prime Factors Method Another way to find the least common multiple of two numbers is to use their prime factors."
+        }
+      ]
+    },
+    {
+      "strategy": "C",
+      "question_id": "q19",
+      "question": "Bội chung nhỏ nhất (LCM) của 15 và 18 là bao nhiêu?",
+      "expected_answer": "90.",
+      "gold_page": 159,
+      "evidence_quote": "The LCM of 15 and 18 is 90.",
+      "hits": [
+        {
+          "page": 169,
+          "chapter": "The Language of Algebra",
+          "section": "Chapter 2 Exercises",
+          "score": 0.805394,
+          "text": "Find the LCM (Least Common Multiple) of and 2 • Exercises 169"
+        },
+        {
+          "page": 160,
+          "chapter": "The Language of Algebra",
+          "section": "2.5 Prime Factorization and the Least Common Multiple",
+          "score": 0.796458,
+          "text": "In the following exercises, find the least common multiple (LCM) using any method. 309 . 310 . 311 . 312 . Everyday Math 313 . Grocery shopping Hot dogs are sold in packages of ten, but hot dog buns come in packs of eight. What is the smallest number of hot dogs and buns that can be purchased if you want to have the same number of hot dogs and buns? (Hint: it is the LCM!) 314 ."
+        },
+        {
+          "page": 157,
+          "chapter": "The Language of Algebra",
+          "section": "2.5 Prime Factorization and the Least Common Multiple",
+          "score": 0.796058,
+          "text": "Then we look for multiples that are common to both lists—these are the common multiples. We see that and appear in both lists. They are common multiples of and We would find more common multiples if we continued the list of multiples for each. The smallest number that is a multiple of two numbers is called the least common multiple (LCM). So the least LCM of and is HOW TO Find the least common multiple (LCM) of two numbers by listing multiples. Step 1."
+        }
+      ]
+    },
+    {
+      "strategy": "C",
+      "question_id": "q20",
+      "question": "Trong chương The Language of Algebra, số nguyên tố (prime number) được định nghĩa như thế nào?",
+      "expected_answer": "Là số đếm lớn hơn 1 mà chỉ có đúng hai ước là 1 và chính nó.",
+      "gold_page": 162,
+      "evidence_quote": "A prime number is a counting number greater than 1 whose only factors are 1 and itself.",
+      "hits": [
+        {
+          "page": 95,
+          "chapter": "The Language of Algebra",
+          "section": "2.1 Use the Language of Algebra",
+          "score": 0.811708,
+          "text": "Chapter Outline 2.1 Use the Language of Algebra 2.2 Evaluate, Simplify, and Translate Expressions 2.3 Solving Equations Using the Subtraction and Addition Properties of Equality 2.4 Find Multiples and Factors 2.5 Prime Factorization and the Least Common Multiple Introduction to the Language of Algebra You may not realize it, but you already use algebra every day. Perhaps you figure out how much to tip a server in a restaurant."
+        },
+        {
+          "page": 158,
+          "chapter": "The Language of Algebra",
+          "section": "2.5 Prime Factorization and the Least Common Multiple",
+          "score": 0.810933,
+          "text": "Write each number as a product of primes, matching primes vertically when possible. 158 2 • The Language of Algebra Access for free at openstax.org"
+        },
+        {
+          "page": 162,
+          "chapter": "The Language of Algebra",
+          "section": "Chapter 2 Review",
+          "score": 0.809184,
+          "text": "of prime numbers that equals the number. prime number A prime number is a counting number greater than 1 whose only factors are 1 and itself. solution of an equation A solution to an equation is a value of a variable that makes a true statement when substituted into the equation."
+        }
+      ]
+    }
+  ]
+}

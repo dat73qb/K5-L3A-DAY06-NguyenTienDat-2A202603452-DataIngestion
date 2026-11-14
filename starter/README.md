@@ -1,6 +1,6 @@
 # Starter · PostgreSQL + pgvector
 
-Bộ khởi động **tùy chọn** cho lab cá nhân. Docker Compose tạo PostgreSQL + pgvector local; các file trong `src/` là **khung pseudocode có TODO**, chưa đọc tài liệu, tạo embedding, lưu vector hay chạy benchmark. Bạn cần tự hiện thực. Vẫn có thể chọn Qdrant, Chroma hoặc vector store tương đương theo [GUIDE.md](../GUIDE.md).
+Bộ khởi động cho lab cá nhân. Docker Compose tạo PostgreSQL + pgvector local. **Pipeline đã được hiện thực đầy đủ** trong `src/` (ingestion → chunking → embeddings → store → evaluation → run) cho corpus *Prealgebra 2e* (chương 1–2) với ba cấu hình A/B/C. Xem báo cáo tại [report/individual/](../report/individual/) và các bước chạy ở mục 3 bên dưới.
 
 ## Cấu trúc
 
@@ -60,6 +60,6 @@ docker compose -p day6_student_starter stop
 2. Hoàn thiện từng hàm TODO trong `src/`. Lưu ID tài liệu, nguồn, trang/vị trí và ít nhất một trường filter có ích.
 3. Xây ít nhất ba cấu hình; ví dụ A fixed-size, B theo đoạn, C như B nhưng có filter. Cần cùng corpus, model và benchmark; nạp lại không nhân đôi và xử lý chunk cũ khi dữ liệu đổi.
 4. Tự viết ít nhất 20 câu hỏi kèm evidence, tách dev/test trước khi thử theo [BENCHMARK.md](../BENCHMARK.md). Lưu trace top-3 và báo cáo đủ năm tiêu chí.
-5. Sau khi hoàn thiện, chạy `python -m src.run` từ thư mục `starter/`. Trước khi làm TODO, lệnh này **chủ động báo `NotImplementedError`**.
+5. Pipeline đã hiện thực: chạy `python -m src.run` từ thư mục `starter/` để ingest corpus, nhúng vector, lưu và chạy benchmark ba cấu hình. Kiểm chứng evidence bằng `python scripts/verify_benchmark.py`.
 
 Lưu code, cấu hình, kết quả và lệnh chạy để người chấm tái lập; không commit key, dữ liệu mật hoặc dữ liệu không có quyền chia sẻ.

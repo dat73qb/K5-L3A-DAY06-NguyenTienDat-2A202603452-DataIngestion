@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed_size,500,50,"source,page,chapter,section",none,intfloat/multilingual-e5-base,"Fixed windows capture broad context so top-1 often contains the answer, but cut mid-sentence lowers Hit@3 and coherence",6,8,2,3,"519 chunks; coherence 0.6/2"
+B,sentence_aware,500,0,"source,page,chapter,section",none,intfloat/multilingual-e5-base,"Sentence-aligned chunks keep evidence intact -> higher Hit@3 and coherence than A",4,9,2,4,"550 chunks; coherence 1.6/2"
+C,sentence_aware,500,0,"source,page,chapter,section",chapter,intfloat/multilingual-e5-base,"Metadata filter constrains scope; on this disjoint-corpus it only guarantees compliance, does not change ranking",4,9,2,4,"550 chunks; filter compliance 3/3"

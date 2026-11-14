@@ -1,0 +1,31 @@
+{
+  "corpus": {
+    "source_id": "prealgebra-2e",
+    "title": "Prealgebra 2e",
+    "authors": "Lynn Marecek, MaryAnne Anthony-Smith, Andrea Honeycutt Mathis",
+    "publisher": "OpenStax (Rice University)",
+    "source_url": "https://openstax.org/books/prealgebra-2e",
+    "pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/prealgebra-2e_-_WEB.pdf",
+    "local_file": "prealgebra-2e.pdf",
+    "license": "CC BY-NC-SA 4.0 (Creative Commons Attribution-NonCommercial-ShareAlike 4.0)",
+    "license_notes": "Non-commercial use only; adaptations must be shared under the same license. Used for a non-commercial educational lab.",
+    "accessed_at": "2026-11-13",
+    "edition_note": "2e (second edition)"
+  },
+  "page_selection": {
+    "total_pdf_pages": 1074,
+    "selected_chapters": ["Chapter 1 Whole Numbers", "Chapter 2 The Language of Algebra"],
+    "printed_page_range": [7, 169],
+    "content_page_count": 163,
+    "minimum_required": 30,
+    "counting_rule": "Physical (printed) page numbers from the book footer. Printed page = PDF page index - 9 (verified against the running footer). Excludes front matter (cover, title, copyright, preface, table of contents) and back matter (answer key, index). Includes chapter introductions, section bodies, chapter reviews and exercises.",
+    "pdf_page_offset": 9
+  },
+  "metadata_fields": [
+    { "field": "document_id", "type": "string", "source": "assigned", "purpose": "traceability" },
+    { "field": "source", "type": "string", "source": "assigned", "purpose": "traceability" },
+    { "field": "page", "type": "integer", "source": "printed page number", "purpose": "traceability / gold page" },
+    { "field": "chapter", "type": "string", "source": "table of contents", "purpose": "metadata filter (strategy C)" },
+    { "field": "section", "type": "string", "source": "table of contents", "purpose": "finer traceability" }
+  ]
+}
