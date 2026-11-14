@@ -69,6 +69,7 @@ python scripts/verify_benchmark.py                    # kiểm chứng evidence
 - **3 câu filter** (`chapter`), trong đó **1 câu test** (q20). Giá trị filter được ngữ cảnh câu hỏi cung cấp trước khi truy xuất, không chứa đáp án/gold source.
 - Mỗi câu có `expected_answer`, `gold_source_id`, `gold_page`, `evidence_quote` đã **kiểm chứng nằm đúng trang nguồn** (20/20, tự động). Không có câu nào không có đáp án trong nguồn.
 - **Tiêu chí chọn chiến lược (chốt trước khi xem test):** ưu tiên **Evidence Hit@3** (test), rồi **grounding**, rồi **coherence**, rồi **tài nguyên** (số chunk/thời gian).
+- **Nguy cơ rò rỉ:** dev và test lấy từ cùng 2 chương nên có chủ đề chồng lấn (vd q13/q17/q20 đều liên quan số nguyên tố/hợp số). Đã tách dev/test **trước** khi chạy và không điều chỉnh chiến lược dựa trên kết quả test.
 
 ---
 
@@ -85,7 +86,7 @@ python scripts/verify_benchmark.py                    # kiểm chứng evidence
 
 | Strategy | Coherence TB /2 | Metadata đủ & đúng (n/N) | Filter tuân thủ (n/N) | Grounding (0/1/2) và TB /2 |
 |---|---|---|---|---|
-| A | **0.6** | 15/15 | N/A (không filter) | 1×0, 1×1, 3×2 → **1.8** |
+| A | **0.6** | 15/15 | N/A (không filter) | 0×0, 1×1, 4×2 → **1.8** |
 | B | **1.6** | 15/15 | N/A | 0×0, 1×1, 4×2 → **1.8** |
 | C | **1.6** | 15/15 | **3/3** | 0×0, 1×1, 4×2 → **1.8** |
 
